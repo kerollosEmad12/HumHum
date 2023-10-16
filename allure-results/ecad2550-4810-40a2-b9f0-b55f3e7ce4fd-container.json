@@ -1,0 +1,1 @@
+{"uuid":"ecad2550-4810-40a2-b9f0-b55f3e7ce4fd","name":"C01TestBase.quit","children":["9a663cce-fc5d-4e45-ae77-dd1c6622b8f1"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697475838654,"stop":1697475845629}],"start":1697475838654,"stop":1697475845629}
